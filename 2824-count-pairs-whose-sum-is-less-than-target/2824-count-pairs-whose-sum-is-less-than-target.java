@@ -5,8 +5,8 @@ class Solution {
             for(int j=0; j<nums.size(); j++) {
                 if(i<j) {
                 if(nums.get(i) + nums.get(j) < target){
-                    count++;
-                 }
+                      count++;
+                   }
                 }
             }
         }
