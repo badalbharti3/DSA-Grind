@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/badalbharti3/DSA-Grind/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/badalbharti3/DSA-Grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/badalbharti3/DSA-Grind/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
+## Hash Table
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/badalbharti3/DSA-Grind/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/badalbharti3/DSA-Grind/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
