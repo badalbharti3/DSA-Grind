@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/badalbharti3/DSA-Grind/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [2469-convert-the-temperature](https://github.com/badalbharti3/DSA-Grind/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
