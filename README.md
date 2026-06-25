@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badalbharti3/DSA-Grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/badalbharti3/DSA-Grind/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/badalbharti3/DSA-Grind/tree/master/1108-defanging-an-ip-address) |
