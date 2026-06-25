@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/badalbharti3/DSA-Grind/tree/master/0844-backspace-string-compare) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badalbharti3/DSA-Grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/badalbharti3/DSA-Grind/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/badalbharti3/DSA-Grind/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/badalbharti3/DSA-Grind/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/badalbharti3/DSA-Grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3110-score-of-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/3110-score-of-a-string) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/badalbharti3/DSA-Grind/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2469-convert-the-temperature](https://github.com/badalbharti3/DSA-Grind/tree/master/2469-convert-the-temperature) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/badalbharti3/DSA-Grind/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
