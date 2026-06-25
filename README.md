@@ -96,5 +96,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/badalbharti3/DSA-Grind/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/badalbharti3/DSA-Grind/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/badalbharti3/DSA-Grind/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
