@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
 | [1004-max-consecutive-ones-iii](https://github.com/badalbharti3/DSA-Grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/badalbharti3/DSA-Grind/tree/master/1052-grumpy-bookstore-owner) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/badalbharti3/DSA-Grind/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badalbharti3/DSA-Grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/badalbharti3/DSA-Grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/badalbharti3/DSA-Grind/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/badalbharti3/DSA-Grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/badalbharti3/DSA-Grind/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## String
