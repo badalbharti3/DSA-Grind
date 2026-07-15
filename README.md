@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/badalbharti3/DSA-Grind/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/badalbharti3/DSA-Grind/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/badalbharti3/DSA-Grind/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/badalbharti3/DSA-Grind/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
