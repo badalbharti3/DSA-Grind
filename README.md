@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/badalbharti3/DSA-Grind/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/badalbharti3/DSA-Grind/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/badalbharti3/DSA-Grind/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/badalbharti3/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/badalbharti3/DSA-Grind/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/badalbharti3/DSA-Grind/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/badalbharti3/DSA-Grind/tree/master/0904-fruit-into-baskets) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/badalbharti3/DSA-Grind/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/badalbharti3/DSA-Grind/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/badalbharti3/DSA-Grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
