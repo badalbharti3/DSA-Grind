@@ -1,45 +1,38 @@
 class Solution {
     public String minWindow(String s, String t) {
 
-        if(s.length() < t.length()) return "";
+        if (s.length() < t.length()) return "";
 
-        Map<Character,Integer> tar = new HashMap<>();
+        int[] tar = new int[128];
 
-        for(char c : t.toCharArray())
-            tar.put(c, tar.getOrDefault(c,0)+1);
+        for (char c : t.toCharArray())
+            tar[c]++;
 
         int count = t.length();
-
         int left = 0;
         int start = 0;
         int minLen = Integer.MAX_VALUE;
 
         char[] ch = s.toCharArray();
 
-        for(int right = 0; right < ch.length; right++) {
+        for (int right = 0; right < ch.length; right++) {
 
-            if(tar.containsKey(ch[right])) {
+            if (tar[ch[right]] > 0)
+                count--;
 
-                if(tar.get(ch[right]) > 0)
-                    count--;
+            tar[ch[right]]--;
 
-                tar.put(ch[right], tar.get(ch[right]) - 1);
-            }
+            while (count == 0) {
 
-            while(count == 0) {
-
-                if(right - left + 1 < minLen) {
+                if (right - left + 1 < minLen) {
                     minLen = right - left + 1;
                     start = left;
                 }
 
-                if(tar.containsKey(ch[left])) {
+                tar[ch[left]]++;
 
-                    tar.put(ch[left], tar.get(ch[left]) + 1);
-
-                    if(tar.get(ch[left]) > 0)
-                        count++;
-                }
+                if (tar[ch[left]] > 0)
+                    count++;
 
                 left++;
             }
