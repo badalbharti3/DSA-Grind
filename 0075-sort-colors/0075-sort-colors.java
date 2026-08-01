@@ -1,23 +1,25 @@
 class Solution {
-    public void sortColors(int[] nums) {
-        int c1 = 0,c2 = 0, c3 = 0;
-        for(int i:nums){
-            if(i==0) c1++;
-            else if(i==1)c2++;
-            else c3++;
+    public void sortColors(int[] arr) {
+       // dutch national algo one pass
+       int left = 0, mid = 0, right = arr.length - 1;
+       while(mid <= right) {
+        if(arr[mid] == 0){
+            int t = arr[mid];
+            arr[mid] = arr[left];
+            arr[left] = t;
+            left++;
+            mid++;
+        }
+        else if(arr[mid] == 1){
+            mid++;
+        }
+        else{
+            int t = arr[mid];
+            arr[mid] = arr[right];
+            arr[right] = t;
+            right--;
         }
 
-        for(int i=0; i<c1; i++){
-            nums[i] = 0;
-        }
-        for(int i=c1; i<c1+c2; i++){
-            nums[i] = 1;
-        }
-        for(int i=c1+c2; i<nums.length; i++){
-            nums[i] = 2;
-        }
-        
-        
-        
+       }
     }
 }
