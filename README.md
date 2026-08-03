@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/badalbharti3/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/badalbharti3/DSA-Grind/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/badalbharti3/DSA-Grind/tree/master/0844-backspace-string-compare) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/badalbharti3/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/badalbharti3/DSA-Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/badalbharti3/DSA-Grind/tree/master/0771-jewels-and-stones) |
