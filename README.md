@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1052-grumpy-bookstore-owner](https://github.com/badalbharti3/DSA-Grind/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/badalbharti3/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/badalbharti3/DSA-Grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/badalbharti3/DSA-Grind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/badalbharti3/DSA-Grind/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/badalbharti3/DSA-Grind/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/badalbharti3/DSA-Grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/badalbharti3/DSA-Grind/tree/master/0844-backspace-string-compare) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/badalbharti3/DSA-Grind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badalbharti3/DSA-Grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -54,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/badalbharti3/DSA-Grind/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/badalbharti3/DSA-Grind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/badalbharti3/DSA-Grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/badalbharti3/DSA-Grind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/badalbharti3/DSA-Grind/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badalbharti3/DSA-Grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/badalbharti3/DSA-Grind/tree/master/0075-sort-colors) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/badalbharti3/DSA-Grind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badalbharti3/DSA-Grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sliding Window
