@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/badalbharti3/DSA-Grind/tree/master/0844-backspace-string-compare) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/badalbharti3/DSA-Grind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/badalbharti3/DSA-Grind/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badalbharti3/DSA-Grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1108-defanging-an-ip-address](https://github.com/badalbharti3/DSA-Grind/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/badalbharti3/DSA-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/badalbharti3/DSA-Grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/badalbharti3/DSA-Grind/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3110-score-of-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/badalbharti3/DSA-Grind/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
