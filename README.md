@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/badalbharti3/DSA-Grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/badalbharti3/DSA-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/badalbharti3/DSA-Grind/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/badalbharti3/DSA-Grind/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/badalbharti3/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/badalbharti3/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
@@ -213,4 +215,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/badalbharti3/DSA-Grind/tree/master/2963-count-the-number-of-good-partitions) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
