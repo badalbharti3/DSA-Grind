@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/badalbharti3/DSA-Grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/badalbharti3/DSA-Grind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/badalbharti3/DSA-Grind/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/badalbharti3/DSA-Grind/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/badalbharti3/DSA-Grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badalbharti3/DSA-Grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/0152-maximum-product-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/badalbharti3/DSA-Grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
