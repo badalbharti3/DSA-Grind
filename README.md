@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/badalbharti3/DSA-Grind/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/badalbharti3/DSA-Grind/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/badalbharti3/DSA-Grind/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/badalbharti3/DSA-Grind/tree/master/0832-flipping-an-image) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/badalbharti3/DSA-Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/badalbharti3/DSA-Grind/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/badalbharti3/DSA-Grind/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/badalbharti3/DSA-Grind/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/badalbharti3/DSA-Grind/tree/master/0771-jewels-and-stones) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/badalbharti3/DSA-Grind/tree/master/0647-palindromic-substrings) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/badalbharti3/DSA-Grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Monotonic Stack
