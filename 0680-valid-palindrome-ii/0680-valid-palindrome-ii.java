@@ -2,43 +2,24 @@ class Solution {
     public boolean validPalindrome(String s) {
         int left = 0;
         int right = s.length() - 1;
-        char str[] = s.toCharArray();
-        int count = 0;
 
         while (left < right) {
-
-            if (str[left] != str[right] && count == 0) {
-                count++;
-
-                // Try skipping left
-                if (check(str, left + 1, right)) {
-                    return true;
-                }
-
-                // Try skipping right
-                if (check(str, left, right - 1)) {
-                    return true;
-                }
-
-                return false;
+            if (s.charAt(left) != s.charAt(right)) {
+                // Try deleting left character OR right character
+                return isPalindrome(s, left + 1, right) ||
+                       isPalindrome(s, left, right - 1);
             }
 
-            else if (str[left] == str[right]) {
-                left++;
-                right--;
-            }
-
-            else {
-                return false;
-            }
+            left++;
+            right--;
         }
 
         return true;
     }
 
-    public boolean check(char str[], int left, int right) {
+    private boolean isPalindrome(String s, int left, int right) {
         while (left < right) {
-            if (str[left] != str[right]) {
+            if (s.charAt(left) != s.charAt(right)) {
                 return false;
             }
 
