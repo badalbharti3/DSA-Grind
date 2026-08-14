@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/badalbharti3/DSA-Grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/badalbharti3/DSA-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/badalbharti3/DSA-Grind/tree/master/0027-remove-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/badalbharti3/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0151-reverse-words-in-a-string) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/0152-maximum-product-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/badalbharti3/DSA-Grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/0053-maximum-subarray) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
