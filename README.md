@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/badalbharti3/DSA-Grind/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/badalbharti3/DSA-Grind/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/badalbharti3/DSA-Grind/tree/master/0713-subarray-product-less-than-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/badalbharti3/DSA-Grind/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/badalbharti3/DSA-Grind/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/badalbharti3/DSA-Grind/tree/master/0680-valid-palindrome-ii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/badalbharti3/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/badalbharti3/DSA-Grind/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/badalbharti3/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
