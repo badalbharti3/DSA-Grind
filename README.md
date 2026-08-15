@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/badalbharti3/DSA-Grind/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/badalbharti3/DSA-Grind/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/badalbharti3/DSA-Grind/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/badalbharti3/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/badalbharti3/DSA-Grind/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/badalbharti3/DSA-Grind/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/badalbharti3/DSA-Grind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badalbharti3/DSA-Grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/badalbharti3/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/badalbharti3/DSA-Grind/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/badalbharti3/DSA-Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0496-next-greater-element-i) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/badalbharti3/DSA-Grind/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/badalbharti3/DSA-Grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/badalbharti3/DSA-Grind/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/badalbharti3/DSA-Grind/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/badalbharti3/DSA-Grind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/badalbharti3/DSA-Grind/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 ## Manacher
 |  |
 | ------- |
@@ -287,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/badalbharti3/DSA-Grind/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
