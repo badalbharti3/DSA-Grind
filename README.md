@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/badalbharti3/DSA-Grind/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/badalbharti3/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/badalbharti3/DSA-Grind/tree/master/0704-binary-search) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/badalbharti3/DSA-Grind/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/badalbharti3/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [2469-convert-the-temperature](https://github.com/badalbharti3/DSA-Grind/tree/master/2469-convert-the-temperature) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/badalbharti3/DSA-Grind/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
