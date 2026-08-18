@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badalbharti3/DSA-Grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2963-count-the-number-of-good-partitions](https://github.com/badalbharti3/DSA-Grind/tree/master/2963-count-the-number-of-good-partitions) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/badalbharti3/DSA-Grind/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/badalbharti3/DSA-Grind/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/badalbharti3/DSA-Grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2963-count-the-number-of-good-partitions](https://github.com/badalbharti3/DSA-Grind/tree/master/2963-count-the-number-of-good-partitions) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/badalbharti3/DSA-Grind/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/badalbharti3/DSA-Grind/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
