@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/badalbharti3/DSA-Grind/tree/master/0069-sqrtx) |
+| [0233-number-of-digit-one](https://github.com/badalbharti3/DSA-Grind/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/badalbharti3/DSA-Grind/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/badalbharti3/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/badalbharti3/DSA-Grind/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/badalbharti3/DSA-Grind/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/badalbharti3/DSA-Grind/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/badalbharti3/DSA-Grind/tree/master/0647-palindromic-substrings) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/badalbharti3/DSA-Grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/badalbharti3/DSA-Grind/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/badalbharti3/DSA-Grind/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
