@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/badalbharti3/DSA-Grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/badalbharti3/DSA-Grind/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/badalbharti3/DSA-Grind/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/badalbharti3/DSA-Grind/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/badalbharti3/DSA-Grind/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/badalbharti3/DSA-Grind/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
