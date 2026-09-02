@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2963-count-the-number-of-good-partitions](https://github.com/badalbharti3/DSA-Grind/tree/master/2963-count-the-number-of-good-partitions) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/badalbharti3/DSA-Grind/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/badalbharti3/DSA-Grind/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/badalbharti3/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [2469-convert-the-temperature](https://github.com/badalbharti3/DSA-Grind/tree/master/2469-convert-the-temperature) |
 | [2963-count-the-number-of-good-partitions](https://github.com/badalbharti3/DSA-Grind/tree/master/2963-count-the-number-of-good-partitions) |
+| [3875-construct-uniform-parity-array-i](https://github.com/badalbharti3/DSA-Grind/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
