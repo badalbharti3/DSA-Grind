@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/badalbharti3/DSA-Grind/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/badalbharti3/DSA-Grind/tree/master/0069-sqrtx) |
 | [0233-number-of-digit-one](https://github.com/badalbharti3/DSA-Grind/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/badalbharti3/DSA-Grind/tree/master/0268-missing-number) |
