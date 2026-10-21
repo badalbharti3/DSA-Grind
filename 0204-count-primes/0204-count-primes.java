@@ -1,8 +1,8 @@
 class Solution {
     public int countPrimes(int n) {
 
-        if (n <= 2) return 0;
-        if(n == 3) return 1;
+        if(n <= 2) return 0;
+        
         boolean[] prime = new boolean[n+1];
 
         Arrays.fill(prime, true);
