@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/badalbharti3/DSA-Grind/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/badalbharti3/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/badalbharti3/DSA-Grind/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/badalbharti3/DSA-Grind/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/badalbharti3/DSA-Grind/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/badalbharti3/DSA-Grind/tree/master/0239-sliding-window-maximum) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/badalbharti3/DSA-Grind/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/badalbharti3/DSA-Grind/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/badalbharti3/DSA-Grind/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/badalbharti3/DSA-Grind/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/badalbharti3/DSA-Grind/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/badalbharti3/DSA-Grind/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/badalbharti3/DSA-Grind/tree/master/0273-integer-to-english-words) |
@@ -366,4 +368,24 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0233-number-of-digit-one](https://github.com/badalbharti3/DSA-Grind/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/badalbharti3/DSA-Grind/tree/master/0273-integer-to-english-words) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/badalbharti3/DSA-Grind/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/badalbharti3/DSA-Grind/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/badalbharti3/DSA-Grind/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/badalbharti3/DSA-Grind/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/badalbharti3/DSA-Grind/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
