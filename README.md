@@ -389,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/badalbharti3/DSA-Grind/tree/master/0204-count-primes) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/badalbharti3/DSA-Grind/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
