@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/badalbharti3/DSA-Grind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/badalbharti3/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/badalbharti3/DSA-Grind/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/badalbharti3/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
