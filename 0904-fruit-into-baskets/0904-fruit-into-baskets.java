@@ -1,36 +1,22 @@
 class Solution {
-    public int totalFruit(int[] fruits) {
-        int n = fruits.length;
+    public int totalFruit(int[] nums) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int left = 0, right = 0;
+        int count = 0;
 
-        HashMap<Integer, Integer> type = new HashMap<>();
-
-        int left = 0;
-        int ans = 0;
-
-        for (int right = 0; right < n; right++) {
-
-            type.put(
-                fruits[right],
-                type.getOrDefault(fruits[right], 0) + 1
-            );
-
-            while (type.size() > 2) {
-
-                type.put(
-                    fruits[left],
-                    type.get(fruits[left]) - 1
-                );
-
-                if (type.get(fruits[left]) == 0) {
-                    type.remove(fruits[left]);
+        while(right < nums.length){
+            map.put(nums[right], map.getOrDefault(nums[right],0)+1);
+            while(map.size() > 2){
+                map.put(nums[left], map.get(nums[left])-1);
+                if(map.get(nums[left]) == 0){
+                    map.remove(nums[left]);
                 }
-
                 left++;
             }
 
-            ans = Math.max(ans, right - left + 1);
+            count = Math.max(right-left+1, count);
+            right++;
         }
-
-        return ans;
+        return count;
     }
 }
