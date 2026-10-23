@@ -19,19 +19,18 @@ class Solution {
             k--;
         }
 
-        String res = "";
-        for(int i=0; i<st.size(); i++){
-            res+=st.get(i);
+        StringBuilder res = new StringBuilder();
+
+        for (char c : st) {
+            res.append(c);
         }
 
-        int i=0;
-        while(i < res.length() && res.charAt(i) == '0'){
+        int i = 0;
+        while (i < res.length() && res.charAt(i) == '0') {
             i++;
         }
 
-        res = res.substring(i);
-
-        return res.isEmpty() ? "0" : res;
+        return i == res.length() ? "0" : res.substring(i);
 
         
     }
