@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/badalbharti3/DSA-Grind/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/badalbharti3/DSA-Grind/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/badalbharti3/DSA-Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/badalbharti3/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/badalbharti3/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/badalbharti3/DSA-Grind/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/badalbharti3/DSA-Grind/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/badalbharti3/DSA-Grind/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/badalbharti3/DSA-Grind/tree/master/0962-maximum-width-ramp) |
@@ -303,12 +305,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/badalbharti3/DSA-Grind/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/badalbharti3/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/badalbharti3/DSA-Grind/tree/master/0962-maximum-width-ramp) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/badalbharti3/DSA-Grind/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/badalbharti3/DSA-Grind/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/badalbharti3/DSA-Grind/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/badalbharti3/DSA-Grind/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/badalbharti3/DSA-Grind/tree/master/0763-partition-labels) |
