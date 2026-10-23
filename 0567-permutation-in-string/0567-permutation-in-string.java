@@ -1,33 +1,31 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int k = s1.length();
-        int n = s2.length();
 
-        if(k>n) return false;
-        HashMap<Character, Integer> s1Map = new HashMap<>();
-        HashMap<Character, Integer> s2Map = new HashMap<>();
+        HashMap<Character, Integer> map1 = new HashMap<>();
+        HashMap<Character, Integer> map2 = new HashMap<>();
 
+        int n = s2.length(), k = s1.length();
+        if(k > n) return false;
+        
         for(int i=0; i<k; i++){
-            s1Map.put(s1.charAt(i), s1Map.getOrDefault(s1.charAt(i),0)+1);
-            s2Map.put(s2.charAt(i), s2Map.getOrDefault(s2.charAt(i),0)+1);
+            map1.put(s1.charAt(i), map1.getOrDefault(s1.charAt(i),0)+1);
+            map2.put(s2.charAt(i), map2.getOrDefault(s2.charAt(i),0)+1);
         }
-        if(s1Map.equals(s2Map)) return true;
+
+        if(map1.equals(map2)) return true;
 
         for(int i=k; i<n; i++){
-            char right = s2.charAt(i);
-            s2Map.put(right, s2Map.getOrDefault(right, 0)+1);
+            map2.put(s2.charAt(i), map2.getOrDefault(s2.charAt(i),0)+1);
+            map2.put(s2.charAt(i-k), map2.get(s2.charAt(i-k))-1);
+            if(map2.get(s2.charAt(i-k))==0) map2.remove(s2.charAt(i-k));
 
-            char left = s2.charAt(i-k);
-            s2Map.put(left, s2Map.get(left) - 1);
-            if(s2Map.get(left) == 0){
-                s2Map.remove(left);
-            }
-
-            if(s1Map.equals(s2Map)){
+            if(map1.equals(map2)){
                 return true;
             }
 
         }
         return false;
+        
+
     }
 }
